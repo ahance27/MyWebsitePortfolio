@@ -1,4 +1,4 @@
-baseURL = 'http://andrehance.netlify.app'
+baseURL = 'https://andrehance.netlify.app/'
 languageCode = 'en-us'
 title = 'Andre Hance Portfilio'
 theme = \"stack\"
